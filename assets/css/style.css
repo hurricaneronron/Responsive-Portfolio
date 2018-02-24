@@ -194,6 +194,10 @@ footer {
     color: #fff;
 }
 
+.work a:visited {
+    color: #fff;
+}
+
 /* contact */
 
 #contact-form ul {

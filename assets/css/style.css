@@ -190,6 +190,10 @@ footer {
     font-weight: 300;
 }
 
+.work a {
+    color: #fff;
+}
+
 /* contact */
 
 #contact-form ul {
